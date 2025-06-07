@@ -7,9 +7,8 @@ This is a fun, interactive web-based version coded with love by **Srishti Pathak
 
 ## 🔍 Preview
 
-![Screenshot 2025-06-08 035338](https://github.com/user-attachments/assets/ac0865b7-2266-444e-983a-53731fdc3965)
-![Screenshot 2025-06-08 035718](https://github.com/user-attachments/assets/2d564c70-daa0-4baa-b474-b0ffd7c16543)
-![Screenshot 2025-06-08 035729](https://github.com/user-attachments/assets/3d0c002f-185a-41ef-9f7a-2030585339b4)
+![image](https://github.com/user-attachments/assets/aa1dbf7b-6de6-42cb-84a9-d99e2fc8d384)
+![image](https://github.com/user-attachments/assets/386add24-d2c0-4080-af7a-d4aa6dbffe73)
 
 ---
 
