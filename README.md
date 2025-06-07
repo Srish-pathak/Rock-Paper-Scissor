@@ -12,13 +12,6 @@ This is a fun, interactive web-based version coded with love by **Srishti Pathak
 
 ---
 
-## 🎮 Live Demo
-
-> 🔗 [Play Now on GitHub Pages](https://yourusername.github.io/Rock-Paper-Scissors/)  
-> _(Update with your actual GitHub Pages link)_
-
----
-
 ## 🚀 Features
 
 - 🎨 **Modern UI** – Clean layout and visually appealing images.
