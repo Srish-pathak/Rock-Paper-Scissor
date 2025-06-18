@@ -24,8 +24,9 @@ This is a fun, interactive web-based version coded with love by **Srishti Pathak
 ---
 
 🎮 Demo
-🔗 Click Here to Play the Game Live(https://srish-pathak.github.io/Rock-Paper-Scissor/)
-Experience the game right in your browser. No downloads required!
+
+🎬 **Try it Live**: [Click here to open the Game](https://srish-pathak.github.io/Rock-Paper-Scissor/)
+🌐 Hosted on **GitHub Pages** for easy access and testing.
 
 ---
 
