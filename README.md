@@ -23,6 +23,12 @@ This is a fun, interactive web-based version coded with love by **Srishti Pathak
 
 ---
 
+🎮 Demo
+🔗 Click Here to Play the Game Live(https://srish-pathak.github.io/Rock-Paper-Scissor/)
+Experience the game right in your browser. No downloads required!
+
+---
+
 ## 🛠️ Tech Stack
 
 - HTML5 – for the structure  
