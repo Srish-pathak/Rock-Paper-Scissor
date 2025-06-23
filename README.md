@@ -19,7 +19,6 @@ This is a fun, interactive web-based version coded by **Srishti Pathak** .
 - ✅ **Live Score Board** – Tracks both user and computer scores.
 - 🔁 **Reset Button** – Reset scores and start fresh anytime.
 - 🔔 **Live Feedback Message** – Displays "You Win", "You Lose" or "Draw" instantly.
-- 💌 **Developer Signature** – Personalized footer message for a friendly touch.
 
 ---
 
