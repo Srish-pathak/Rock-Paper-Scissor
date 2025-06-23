@@ -1,7 +1,7 @@
 # ✊🖐✌ Rock Paper Scissors Game
 
 Welcome to **Rock Paper Scissors**, a classic hand game now in digital form!  
-This is a fun, interactive web-based version coded with love by **Srishti Pathak** 💖.
+This is a fun, interactive web-based version coded by **Srishti Pathak** .
 
 ---
 
